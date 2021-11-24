@@ -8,7 +8,11 @@ Original file is located at
 
 **Data augmentation on image dataset**
 
-When doing the main tasks required for this portfolio coursework I always observed poor accuracy when trying to classify the images; never been able to reach much more than 80% accuracy on test. I was curious to see if I could find ways to increase the classifier accuracy on this dataset. To this end I've investigated data augmentation methods as well as increasing the number of layers in the model. I've introduced the methods individually then described the best combination I've identified.
+When doing the main tasks required for this portfolio coursework I always observed poor accuracy when trying to classify the images; 
+I've never been able to reach much more than 80% accuracy on test. 
+I was curious to see if I could find ways to increase the classifier accuracy on this dataset. 
+To this end I've investigated data augmentation methods as well as increasing the number of layers in the model. 
+I've introduced the methods individually then described the best combination I've identified.
 """
 
 import matplotlib.pyplot as plt
