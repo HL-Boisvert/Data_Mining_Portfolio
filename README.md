@@ -1,3 +1,6 @@
+This project was carried out as part of the "Data Mining and Machine Learning" course at Heriot-Watt University
+
+
 # Data_Mining_Portfolio
 
 #### https://www.kaggle.com/andrewmvd/animal-faces
